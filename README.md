@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archie</h1>
 <h3 align="center">🎓University Of Bristol MSc Computer Science</h3>
 
-- 🌱 I’m currently learning **C++, Java, JavaScript **
+- 🌱 I’m currently learning C++, Java, JavaScript 
 
 - 📫 How to reach me **archiebrown16@icloud.com**
 
