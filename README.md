@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Archie</h1>
+<h1 align="center">Archie Brown</h1>
 <h3 align="center">🎓University Of Bristol MSc Computer Science</h3>
 
 - 🌱 I’m currently learning C++, Java, JavaScript, Python 
